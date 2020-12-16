@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Wassim Seifeddine"
-  avatar           : "files/profile.PNG"
+  avatar           : "profile.PNG"
   bio              : "Machine Learning"
   location         : "Paris"
   employer         :
