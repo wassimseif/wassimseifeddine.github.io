@@ -8,4 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-Hi this is Wassim Seifeddine. The coolest guy ever
+Hi this is Wassim Seifeddine. The coolest guy ever.
+Currently I'm a Research intern at [INRIA](https://www.inria.fr/fr) working on putting machine learning model on tiny devices.
